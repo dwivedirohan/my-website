@@ -1,0 +1,28 @@
+* [33md999231[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Updating index.html befor e rebase
+* [33m2e31273[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m ReadMe updated on master on GITHUB before Rebase
+* [33m772e78d[m More tweaks to README
+* [33mfa5add9[m  Tweaked  readme
+*   [33m01d67d2[m Merge branch 'remove-ipsum'
+[32m|[m[33m\[m  
+[32m|[m * [33m59268eb[m Removing ipsum file
+* [33m|[m   [33med48c94[m Merge pull request #2 from dwivedirohan/example
+[33m|[m[35m\[m [33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+[33m|[m * [33mee1d580[m Updating Readme from example branch
+[33m|[m[33m/[m  
+* [33m6d892a4[m Deleting demo file
+* [33mb98f329[m Rename file to markdown syntax
+* [33m06f9bd5[m Create new demo file
+*   [33m91457e8[m Merge pull request #1 from dwivedirohan/feature-lipsum
+[36m|[m[1;31m\[m  
+[36m|[m * [33mcff8b1e[m Create new file -- filler text
+[36m|[m[36m/[m  
+* [33ma92aaac[m Updating title for personal Website
+*   [33medac5b1[m Merge branch 'master' of github.com:dwivedirohan/my-website
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mcce176b[m Providing title on index.html
+* [1;33m|[m [33me2eceff[m Updating README
+[1;33m|[m[1;33m/[m  
+* [33mcfcec68[m Adding initial Website files
+* [33me1f21df[m Initial commit
